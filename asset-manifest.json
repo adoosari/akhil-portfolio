@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/akhil-portfolio/static/css/main.555b473c.css",
+    "main.js": "/akhil-portfolio/static/js/main.946fe92e.js",
+    "static/js/787.1ed0c42c.chunk.js": "/akhil-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/main-bg.png": "/akhil-portfolio/static/media/main-bg.febfbaa1ee374beb9a0e.png",
+    "static/media/siteMap.png": "/akhil-portfolio/static/media/siteMap.0e44c93e2e10b212841a.png",
+    "static/media/sketch2.png": "/akhil-portfolio/static/media/sketch2.eda76d5c3cb2fa00d409.png",
+    "static/media/sketch1.png": "/akhil-portfolio/static/media/sketch1.bafbfbfe85ed3cb3e383.png",
+    "static/media/design4.png": "/akhil-portfolio/static/media/design4.a90745c92a80852c5380.png",
+    "static/media/sketch3.png": "/akhil-portfolio/static/media/sketch3.772d1379b51893c039fb.png",
+    "static/media/LoginFlow.png": "/akhil-portfolio/static/media/LoginFlow.80fde9dfac87681f0b00.png",
+    "static/media/design2.png": "/akhil-portfolio/static/media/design2.797f9f20c4f24d3bf90d.png",
+    "static/media/design3.png": "/akhil-portfolio/static/media/design3.707db506e9084e576ee4.png",
+    "static/media/design1.png": "/akhil-portfolio/static/media/design1.603ec4bcb237f52b4579.png",
+    "index.html": "/akhil-portfolio/index.html",
+    "main.555b473c.css.map": "/akhil-portfolio/static/css/main.555b473c.css.map",
+    "main.946fe92e.js.map": "/akhil-portfolio/static/js/main.946fe92e.js.map",
+    "787.1ed0c42c.chunk.js.map": "/akhil-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555b473c.css",
+    "static/js/main.946fe92e.js"
+  ]
+}
